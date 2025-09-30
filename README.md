@@ -30,7 +30,7 @@ tensorboard_visualizer/
 1. Clone the repository:
 
 ```bash
-git clone <repo_url>
+git clone https://github.com/Geophyte/tensorboard-visualizer
 cd tensorboard_visualizer
 ````
 
