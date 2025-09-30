@@ -14,6 +14,7 @@ A Streamlit-based interactive app to visualize multiple TensorBoard runs grouped
 
 ## Project Structure
 
+````
 tensorboard_visualizer/
 │
 └── src/
@@ -22,7 +23,6 @@ tensorboard_visualizer/
         │── __init__.py
         │── file_utils.py      # File scanning and path parsing
         │── event_utils.py     # TensorBoard event parsing and aggregation
-
 ````
 
 ## Installation
